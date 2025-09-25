@@ -8,7 +8,7 @@ A simple weather application built with JavaScript/React that fetches live weath
 - Responsive design
 
 ## Live Demo
-👉 [View Weather App](https://your-weather-app-link.vercel.app)
+👉 [View Weather App](https://weather-app-pied-sigma-60.vercel.app/)
 
 ## Installation
 ```bash
